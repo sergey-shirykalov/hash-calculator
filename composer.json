@@ -1,0 +1,13 @@
+{
+    "name": "sergey-shirykalov/hash-calculator",
+    "description": "Hash Calculator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SergeyShirykalov\\Md5Generator\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
